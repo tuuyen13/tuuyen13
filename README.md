@@ -7,13 +7,15 @@ Hello! I'm Uyen Tham, a passionate data analyst on a journey to explore, analyze
 
 - 🎓 Final-year student majoring in Electronic Commerce.
 - 💼 Aspiring data analyst with a passion for turning data into actionable insights.
-- 📊 Solid foundation in statistical analysis, data manipulation, and visualization.
+- 📊 Solid foundation in statistical analysis, data analysis and visualization techniques
 - 🧩 Effective communication and problem-solving skills to tackle real-world challenges.
+- 🧩 Proactive, growth mindset and willing to learn
+- 🔍 I am seeking a data analyst or related position in a dynamic environment where I strive to both work and self-develop to contribute towards business growth.
 
 ## What I'm Working On
 - 🔍 Exploring exciting datasets and crafting data-driven stories.
-- 📚 Currently learning and honing my skills in SQL, Power BI, Python for data analysis.
-- 📈 Constantly improving my skills through data analysis project and coursework.
+- 📚 Currently learning and honing my skills in SQL, Power BI and Python for data analysis.
+- 📈 Constantly improving my skills through data analysis projects and coursework.
 
 ## Let's Connect
 
