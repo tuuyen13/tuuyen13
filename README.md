@@ -5,7 +5,7 @@
 Hello! I'm Uyen Tham, a passionate data analyst on a journey to explore, analyze and visualize the world through data. 
 ## About Me
 
-- 🎓 Final-year student majoring in Electronic Commerce.
+- 🎓 Fresh graduate from the University of Economics and Law with a major in Electronic Commerce.
 - 💼 Aspiring data analyst with a passion for turning data into actionable insights.
 - 📊 Solid foundation in statistical analysis, data analysis and visualization techniques
 - 🧩 Effective communication and problem-solving skills to tackle real-world challenges.
